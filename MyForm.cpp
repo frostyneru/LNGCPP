@@ -2,7 +2,7 @@
 #include <Windows.h>
 #include <string>
 #include <math.h>
-// Название проекта
+// РќР°Р·РІР°РЅРёРµ РїСЂРѕРµРєС‚Р°
 using namespace LNGCPP; 
 
 [STAThreadAttribute]
